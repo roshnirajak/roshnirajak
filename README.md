@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on **App Development**
 
-🌱 I’m currently learning **Flutter**
+🌱 And learning **Flutter**
 
 <h4 align="left">Connect with me:</h4>
 <a href="https://linkedin.com/in/roshrajak">
