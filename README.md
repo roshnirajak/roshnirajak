@@ -26,7 +26,3 @@
 <code><img height="20" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git"></code>
 <code><img height="20" src="https://subak.ovh/content/images/2018/07/blender.png" alt="Blender"></code>
 <br><br>
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roshnirajak&show_icons=true&locale=en&layout=compact" alt="roshnirajak" /></p>
