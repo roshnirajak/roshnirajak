@@ -6,7 +6,7 @@
 🌱 And learning **Flutter**
 
 <h4 align="left">Connect with me:</h4>
-<a href="https://linkedin.com/in/roshrajak">
+<a href="https://www.linkedin.com/in/rosh-rajak-6a645420b">
   <img align="left" alt="rosh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
 <a href="https://twitter.com/roshrajak">
   <img align="left" alt="roshrajak | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
