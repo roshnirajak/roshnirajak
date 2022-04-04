@@ -1,5 +1,5 @@
 <samp>
-  <h3>Hi I'm Rosh</h3>
+  <h3>Hi I'm ROSH</h3>
   A student, currently learning Flutter.<p>
   Coding because that's what keeping me sane.
 <h3>
