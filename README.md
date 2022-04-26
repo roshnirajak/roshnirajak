@@ -13,7 +13,6 @@ Languages and Tools:
   CSS3 .
   JavaScript .
   Git</a> .
-  Blender 
   
 <p><br>
   Peace out!
