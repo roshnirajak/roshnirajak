@@ -1,18 +1,21 @@
 <samp>
   <h3>Hi I'm ROSH</h3>
-  A student, currently learning Flutter.<p>
+  A student, working on Figma projects.<p>
   Coding because that's what keeps me sane.
 <h3>
 Languages and Tools:
 </h3>
-  C .
-  Python .
-  Dart</a> .
-  Flutter .
+  Figma .
   HTML5 .
   CSS3 .
   JavaScript .
-  Git</a> .
+  Wordpress.
+  Flutter .
+  Dart .
+  C .
+  Python
+  
+  
   
 <p><br>
   Peace out!
