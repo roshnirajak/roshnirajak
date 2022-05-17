@@ -9,7 +9,6 @@ Languages and Tools:
   HTML5 .
   CSS3 .
   JavaScript .
-  Wordpress.
   Flutter .
   Dart .
   C .
