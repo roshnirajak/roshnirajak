@@ -8,10 +8,13 @@
   HTML5, 
   CSS3,
   JavaScript,
+  PHP,
+  SQL,
   React JS,
   Flutter,
   Dart,
   C,
+  C++,
   Python
  </samp>
   
