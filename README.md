@@ -3,12 +3,13 @@
 
 ### About Me
 
-<p align="left">
-   🔭 Working as Web Developer <br>
-   📒 Currently learning Machine Learning<br>
-   📧 Always open to feedback and suggestions at <b>imroshni3@gmail.com</b><br>
-   🗿 In my free time, I clean my desk</p>
 
+   🔭 Working as Web Developer <br>
+   📒 Currently learning Cyber Security<br>
+   🦄  Interested in Machine Learning<br>
+   📧 Always open to feedback and suggestions at imroshni3@gmail.com<br>
+   🗿 In my free time, I clean my desk<br>
+   🦉 Discord: roshrajak#6551
 
 
 ### Languages and Tools
@@ -26,21 +27,7 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 
-
-### My Socials
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/roshni-rajak-6a645420b/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=linkedin&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/roshrajak" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=roshrajak6551&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <a href="https://www.instagram.com/roshrajak/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  </div>
+Have a great day. Peace out!
 
 
 <!-- <h3 align="left">🤺 My Stats :</h3>
