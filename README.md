@@ -4,12 +4,10 @@
 ### About Me
 
 
-   🔭 Working as Web Developer <br>
-   📒 Currently learning Cyber Security<br>
-   🦄  Interested in Machine Learning<br>
-   📧 Always open to feedback and suggestions at imroshni3@gmail.com<br>
-   🗿 In my free time, I clean my desk<br>
-   🦉 Discord: roshrajak#6551
+   - Working as Web Developer <br>
+   - Currently learning Cyber Security<br>
+   - Interested in Machine Learning<br>
+   - Discord: roshrajak#6551
 
 
 ### Languages and Tools
