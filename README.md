@@ -1,10 +1,8 @@
-<div align="center">
-  <img height="220" src=".github/workflows/frame.png"/>
-</div>
+# Hi, I'm Roshni
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/roshni-rajak-6a645420b/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=linkedin&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
