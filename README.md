@@ -5,7 +5,7 @@
 
 
    - Working as Web Developer <br>
-   - Currently learning Cyber Security<br>
+   - Currently making Illustrations<br>
    - Interested in Machine Learning<br>
    - Discord: roshrajak#6551
 
