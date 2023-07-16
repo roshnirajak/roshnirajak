@@ -5,7 +5,7 @@
 
 
    - Working as Web Developer <br>
-   - Currently making Illustrations<br>
+   - Currently learning React Native<br>
    - Interested in Machine Learning<br>
    - Discord: roshrajak#6551
 
