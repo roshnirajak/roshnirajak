@@ -5,8 +5,8 @@
 
 
    - Working as Web Developer <br>
-   - Currently learning React Native<br>
-   - Interested in Machine Learning<br>
+   - Currently learning Laravel<br>
+   - Interested in Robotics<br>
    - Discord: roshrajak#6551
 
 
