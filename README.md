@@ -5,8 +5,7 @@
 
 
    - Working as Web Developer <br>
-   - Currently learning Laravel<br>
-   - Interested in Robotics<br>
+   - Currently building a Progressive Web App<br>
    - Discord: roshrajak#6551
 
 
