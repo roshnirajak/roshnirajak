@@ -5,7 +5,7 @@
 
 
    - Working as Web Developer <br>
-   - Currently building a Progressive Web App<br>
+   - Currently building a Browser Based Web App<br>
    - Discord: roshrajak#6551
 
 
