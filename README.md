@@ -1,7 +1,6 @@
 # Hi, I'm Roshni
    - A Software Developer
    - Working on MERN projects
-   - Discord: roshrajak#6551
 
 
 
