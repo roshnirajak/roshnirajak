@@ -1,6 +1,5 @@
 # Hi, I'm Roshni
    - A Software Developer
-   - Working on MERN projects
 
 
 
