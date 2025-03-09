@@ -3,7 +3,7 @@
 - Aspiring DevOps Engineer
 - Open to hackathon collaborations that align with my skills!
 - Get in touch:
-  - <a href="www.linkedin.com/in/roshni-rajak-6a645420b" target="_blank">LinkedIn</a>
+  - <a href="https://www.linkedin.com/in/roshni-rajak-6a645420b" target="_blank">LinkedIn</a>
   - Discord roshrajak#6551
 - Tools & Skills :
 
